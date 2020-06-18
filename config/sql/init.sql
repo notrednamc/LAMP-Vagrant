@@ -1,5 +1,5 @@
 -- Author: Michael Anderton
--- Contact: michael.anderto@grayanalytics.com
+-- Contact: michaelanderton41@gmail.com
 
 -- CREATE DATABASE IF NOT EXISTS dev;
 CREATE DATABASE IF NOT EXISTS db_cat;

@@ -1,5 +1,5 @@
 -- Author: Michael Anderton
--- Contact: michael.anderto@grayanalytics.com
+-- Contact: michaelanderton41@gmail.com
 
 --
 -- Populate the user table with dummy data.
@@ -34,7 +34,7 @@ INSERT INTO `tblUserType`
 --
 INSERT INTO `tblAnalyst`
   (`analyst_uname`, `analyst_password`, `analyst_email`) VALUES
-  ('manderton', '9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08', 'michael.anderton@grayanalytics.com'),
+  ('mrniceguy', '9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08', 'michael.anderton@grayanalytics.com'),
   ('kturner', '9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08', 'kevin.turner@grayanalytics.com'),
   ('djarmon', '9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08', 'david.jarmon@grayanalytics.com'),
   ('dunruh', '9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08', 'david.unruh@grayanalytics.com');
